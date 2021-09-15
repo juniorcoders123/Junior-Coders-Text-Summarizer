@@ -1,0 +1,5 @@
+streamlit==0.82.0
+Cython==0.29.14
+gensim==3.8.3
+gensim-sum-ext==0.1.2
+gTTS==2.2.2
